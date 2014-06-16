@@ -1,6 +1,6 @@
 === Category Tag Pages ===
 Contributors: Marzio Carro
-Tags: tag, tags, category, categories, pages, tag pages, category pages, post-tag, post-tags, page-tag, page-tags, page-category, page-categories, taxonomy, taxonomies
+Tags: tag, tags, category, categories, pages, tag pages, category pages, page-tag, page-tags, page-category, page-categories, taxonomy, taxonomies
 Requires at least: 3.0
 Tested up to: 4.0-alpha
 Stable tag:trunk
@@ -10,6 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Adds categories and tags functionality for your pages.
 
 == Description ==
+
 Adds categories and tags functionality for your pages.
 
 This plugin addsthe 'post_tag' and the 'category' taxonomies, which are the names of the existing taxonomies used for tags and categories the Post type 'page'.

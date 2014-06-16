@@ -1,5 +1,5 @@
 === Category Tag Pages ===
-Contributors: Marzio Carro
+Contributors: marziocarro
 Tags: tag, tags, category, categories, pages, tag pages, category pages, page-tag, page-tags, page-category, page-categories, taxonomy, taxonomies
 Requires at least: 3.0
 Tested up to: 4.0-alpha
